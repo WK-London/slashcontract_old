@@ -8,6 +8,7 @@
 
 ####This Agreement is between:
 (1) Wieden & Kennedy UK Limited, 16 Hanbury Street, London, E1 6QR (the “Company”); and
+
 (2) Name of Limited Company (the “Collaborator”) 
 
 
