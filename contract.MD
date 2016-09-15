@@ -8,24 +8,24 @@
 
 
 ###This Agreement is between:
-⋅⋅1. Wieden & Kennedy UK Limited, 16 Hanbury Street, London, E1 6QR (the “Company”); and
-⋅⋅2. Name of Limited Company (the “Collaborator”) 
+(1) Wieden & Kennedy UK Limited, 16 Hanbury Street, London, E1 6QR (the “Company”); and
+(2) Name of Limited Company (the “Collaborator”) 
 
 
 ###1 The Services
 
-	1.1	The Company engages the Collaborator to provide the services set out in Schedule 1 of this agreement (the “Services”) and the Collaborator agrees to provide the Services in accordance with the terms of this agreement. 
+1.1 The Company engages the Collaborator to provide the services set out in Schedule 1 of this agreement (the “Services”) and the Collaborator agrees to provide the Services in accordance with the terms of this agreement. 
 	
-	1.2	This project will start on xxxx and continue to xxxx (the “Term”) or until the project is ended earlier by either party in accordance with the terms of this agreement (the “Project End Date”). 
+1.2 This project will start on xxxx and continue to xxxx (the “Term”) or until the project is ended earlier by either party in accordance with the terms of this agreement (the “Project End Date”). 
 
 
 ###2 Agreed Services 
 
-	2.1	The Collaborator will provide the Services for [XXX] hours over the Term (the “Target Hours”). 
+2.1 The Collaborator will provide the Services for [XXX] hours over the Term (the “Target Hours”). 
 	
-	2.2	The Collaborator must ensure that the Services are provided by the individual[s] named in Schedule 2 unless otherwise agreed in writing with the Company. 
+2.2 The Collaborator must ensure that the Services are provided by the individual[s] named in Schedule 2 unless otherwise agreed in writing with the Company. 
 	
-	2.3	The Services will be provided at any time agreed between the Collaborator and the Company. 
+2.3 The Services will be provided at any time agreed between the Collaborator and the Company. 
 
 
 ###3 Payment
