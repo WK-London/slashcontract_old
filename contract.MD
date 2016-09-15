@@ -23,20 +23,20 @@
 
 1. The Collaborator will provide the Services for [XXX] hours over the Term (the “Target Hours”). 
 	
-1. The Collaborator must ensure that the Services are provided by the individual[s] named in Schedule 2 unless otherwise agreed in writing with the Company. 
+2. The Collaborator must ensure that the Services are provided by the individual[s] named in Schedule 2 unless otherwise agreed in writing with the Company. 
 	
-1. The Services will be provided at any time agreed between the Collaborator and the Company. 
+3. The Services will be provided at any time agreed between the Collaborator and the Company. 
 
 
-###3 Payment
+###3. Payment
 
-	3.1	The Collaborator will be paid a fee of [£XXX] (the “Total Payment”) comprising both of:
-		3.1.1 a guaranteed monthly instalment of  [£XXX]; and 
-		3.1.2 a single payment of [£XXX] payable in full only if, at the Project End Date, the Collaborator has provided the Services for the Target Hours.
+3. The Collaborator will be paid a fee of [£XXX] (the “Total Payment”) comprising both of:
+	3. a guaranteed monthly instalment of  [£XXX]; and 
+	3. a single payment of [£XXX] payable in full only if, at the Project End Date, the Collaborator has provided the Services for the Target Hours.
 	
-	3.2	[At the Project End Date the Collaborator and the Company shall agree the total number of hours for which the Collaborator has provided the Services.]  If the Collaborator has provided the Services for the Target Hours they will receive the single payment in Clause 3.1.2.  
+	3. [At the Project End Date the Collaborator and the Company shall agree the total number of hours for which the Collaborator has provided the Services.]  If the Collaborator has provided the Services for the Target Hours they will receive the single payment in Clause 3.1.2.  
 	
-	3.3 If at the Project End Date the Collaborator has provided the Services for less than the Target Hours: 
+	3. If at the Project End Date the Collaborator has provided the Services for less than the Target Hours: 
 		3.3.1 the percentage of Target Hours for which the Collaborator has provided the Services shall be calculated (for example, if the number of Target Hours is 10 and the Collaborator has only provided the Services for 4 hours, the percentage of Target Hours provided is 40%).  
 		3.3.2 The total accumulative amount of payments that the Collaborator has received by way of guaranteed monthly instalments under Clause 3.1.1 shall also be calculated and expressed as a percentage of the Total Payment (for example, if the Total Payment is £100 and the Collaborator has received accumulatively £50 by way of guaranteed monthly instalments, the percentage of Total Payment received is 50%).     
 		3.3.3 If the percentage of Target Hours for which the Collaborator has provided the Services (calculated under Clause 3.3.1) is lower than the percentage of Total Payment that the Collaborator has received by way of guaranteed monthly instalments (calculated under Clause 3.3.2): 
@@ -45,15 +45,15 @@
 		3.3.4 If the percentage of Target Hours for which the Collaborator has provided the Services (calculated under Clause 3.3.1) is higher than the percentage of Total Payment that the Collaborator has received by way of guaranteed monthly instalments (calculated under Clause 3.3.2): 
 			3.3.4.1	the Company shall pay the proportion of the single payment in Clause 3.1.2 sufficient to make the percentage of the Total Payment the Collaborator will have received (after this additional top-up payment) equal to the percentage of Target Hours for which the Services were provided (calculated under Clause 3.3.1).  For example, if the Collaborator has received accumulatively £50 by way of guaranteed monthly instalments (with a possible single payment of £50 meaning the Total Payment is £100), but at the Project End Date the Collaborator has provided the Services for 6 hours and the number of Target Hours is 10 (meaning the percentage of Target Hours provided is 60%) the Company shall pay to the Collaborator £10.
 	
-	3.4	 If at the Project End Date the Collaborator has provided the Services for more than the Target Hours:
+3.	 If at the Project End Date the Collaborator has provided the Services for more than the Target Hours:
 		3.4.1	the Company shall pay the amount sufficient to make the percentage of the Total Payment the Collaborator will have received (after this additional top-up payment) equal to the percentage of Target Hours for which the Services were provided.  For example, if the Collaborator has received a Total Payment of £100 (comprising of guaranteed monthly instalments of £50 and a single payment of £50), but at the Project End Date the Collaborator has provided the Services for 11 hours and the number of Target Hours is 10 (meaning the percentage of Target Hours provided is 110%) the Company shall pay to the Collaborator an additional £10.
 	
-	3.5	Clause 3.3.3 above shall not apply if at the Project End Date both:
+3.	Clause 3.3.3 above shall not apply if at the Project End Date both:
 		3.5.1	the Collaborator has not provided the Services for 10% or more of the Target Hours; 
 		and 
 		3.5.2	the reason that the Collaborator has not provided the Services for 10% or more of the Target Hours is that the Company has been unable to provide the opportunity for the Collaborator to provide the Services for 10% or more of the Target Hours.
 	
-	3.6	No monies will be due from the Company to the Collaborator for providing the Services other than those set out in this agreement.    
+3.	No monies will be due from the Company to the Collaborator for providing the Services other than those set out in this agreement.    
 
 
 ###4 Providing the Services
