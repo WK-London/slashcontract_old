@@ -12,11 +12,11 @@
 (2) Name of Limited Company (the “Collaborator”) 
 
 
-###1. The Services
+###1  The Services
 
-..1 The Company engages the Collaborator to provide the services set out in Schedule 1 of this agreement (the “Services”) and the Collaborator agrees to provide the Services in accordance with the terms of this agreement. 
+  1 The Company engages the Collaborator to provide the services set out in Schedule 1 of this agreement (the “Services”) and the Collaborator agrees to provide the Services in accordance with the terms of this agreement. 
 	
-..2 This project will start on xxxx and continue to xxxx (the “Term”) or until the project is ended earlier by either party in accordance with the terms of this agreement (the “Project End Date”). 
+  2 This project will start on xxxx and continue to xxxx (the “Term”) or until the project is ended earlier by either party in accordance with the terms of this agreement (the “Project End Date”). 
 
 
 ###2 Agreed Services 
