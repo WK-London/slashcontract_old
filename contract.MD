@@ -6,19 +6,19 @@
 ###Consultancy Agreement 
 
 
-###This Agreement is between:
+####This Agreement is between:
 (1) Wieden & Kennedy UK Limited, 16 Hanbury Street, London, E1 6QR (the “Company”); and
 (2) Name of Limited Company (the “Collaborator”) 
 
 
-###1 The Services
+####1 The Services
 
  1.1 The Company engages the Collaborator to provide the services set out in Schedule 1 of this agreement (the “Services”) and the Collaborator agrees to provide the Services in accordance with the terms of this agreement. 
  
  1.2 This project will start on xxxx and continue to xxxx (the “Term”) or until the project is ended earlier by either party in accordance with the terms of this agreement (the “Project End Date”). 
 
 
-###2 Agreed Services 
+####2 Agreed Services 
 
  2.1 The Collaborator will provide the Services for [XXX] hours over the Term (the “Target Hours”). 
  
@@ -27,7 +27,7 @@
  2.3 The Services will be provided at any time agreed between the Collaborator and the Company. 
 
 
-###3 Payment
+####3 Payment
 
  3.1 The Collaborator will be paid a fee of [£XXX] (the “Total Payment”) comprising both of:
   3.1.1 a guaranteed monthly instalment of  [£XXX]; and 
@@ -55,7 +55,7 @@
  3.6 No monies will be due from the Company to the Collaborator for providing the Services other than those set out in this agreement.    
 
 
-###4 Providing the Services
+####4 Providing the Services
 
  4.1 The Collaborator and any person providing Services on behalf of the Collaborator will provide the Services: 
   4.1.1 with all reasonable care and skill;
@@ -70,12 +70,12 @@
  4.3 When providing the Services at the Company’s premises, the Collaborator and any person providing Services on behalf of the Collaborator must comply with any applicable policies, procedures and rules of the Company.
 
 
-###5 Location 
+####5 Location 
 
  5.1 The Collaborator may provide the Services at the Company’s premises at 16 Hanbury Street, London E1 6QR or at any other location as mutually agreed by the Collaborator and the Company. 
 
 
-###6 Confidentiality
+####6 Confidentiality
 
  6.1 During and after the project with the Company, the Collaborator and any person providing Services on behalf of the Collaborator must not (unless required to do so by law, protected in doing so by a legal right of protected disclosure or doing so in properly providing the Services):
   6.1.1 use any of the Company’s trade secrets or confidential information for any purposes other than the Company’s; or
@@ -86,7 +86,7 @@
  6.3 “Confidential information” includes but is not limited to lists of the Company’s actual or potential clients; details of relationships or arrangements with or knowledge of the requirements of the Company’s actual or potential clients; details of the Company’s business methods, finances, prices or pricing strategy, marketing or development plans or strategies; details of any tenders, pitches or presentations proposed or made by the Company; personal information about any of the Company’s directors or employees; information divulged to the Company by a third party in confidence; and any information relating to the Company or any of its clients which the Company or client in question reasonably considers to be confidential. 
 
 
-###7 Data protection and monitoring
+####7 Data protection and monitoring
 
  7.1 The Collaborator and any person providing Services on behalf of the Collaborator accepts that the Company may need to process personal data about them and consents to the Company processing such data for any purpose connected with this agreement or the provision of the Services.  If the Collaborator and any person providing Services on behalf of the Collaborator require further information about the processes carried out by the Company, they must contact the Company’s HR Manager or refer to the Company’s Data Protection Policy in the first instance.
  
@@ -95,7 +95,7 @@
   7.2.2 take appropriate technical and organisational measures against unauthorised or unlawful processing of such data and against accidental loss or destruction of, or damage to, such data.  
 
 
-###8 Intellectual property and proprietary rights 
+####8 Intellectual property and proprietary rights 
 
  8.1 The Company will be entitled to ownership, copyright, design rights and all other intellectual property and proprietary rights (both present and future) in the Materials and the Collaborator and any person providing Services on behalf of the Collaborator assigns all such rights to the Company.
  
@@ -110,14 +110,14 @@
   8.5.2 exercise such rights against any third party only as the Company requests and in accordance with the Company’s directions.
 
 
-###9 Discrimination and dignity at work
+####9 Discrimination and dignity at work
  
  9.1 The Collaborator must (and must ensure that anyone providing Services on behalf of the Collaborator will) treat all employees, agents and contractors of the Company (and such agents’ and contractors’ employees) with respect and must not harass, victimise or otherwise unlawfully discriminate against any such persons.
  
  9.2 The Collaborator will indemnify the Company and keep it indemnified against any claims, liabilities, costs and expenses which the Company incurs as a result of, or related to, breaches or alleged breaches by the Collaborator and any person providing Services on behalf of the Collaborator of obligations under this Clause.
 
 
-###10 Termination
+####10 Termination
 
  10.1 This agreement will terminate upon expiry of the Term or earlier if terminated in accordance with the clause. 
  
@@ -138,7 +138,7 @@
   10.6.2 any rights or obligations which expressly or impliedly survive the termination of this agreement
 
 
-###11 Restrictions
+####11 Restrictions
 
  11.1 In this Clause:
   11.1.1 “Client” means any client of the Company with whom the Collaborator and any person providing Services on behalf of the Collaborator had material contact by reason of or in connection with this agreement or the provision of the Services;
@@ -160,7 +160,7 @@
   11.3.5 provide services to a Competitor if during this agreement or the provision of the Services the Collaborator and any person providing Services on behalf of the Collaborator has obtained or otherwise received trade secrets or confidential information which are likely to be of material value to the Competitor and in the course of providing such services to the Competitor there is a material risk that the Collaborator and any person providing Services on behalf of the Collaborator would (whether inadvertently, carelessly or deliberately) use or disclose such secrets or information. 
 
 
-###12 Status
+####12 Status
 
  12.1 The Collaborator and any person providing Services on behalf of the Collaborator warrants that they are independent self-employed contractors in business on his/her own account and not an employees of the Company.  
  
@@ -171,7 +171,7 @@
  12.4 The Collaborator and any person providing Services on behalf of the Collaborator will account to the appropriate authorities for any income tax or national insurance contributions due in respect of sums payable in connection with this agreement.  The Collaborator and any person providing Services on behalf of the Collaborator will indemnify the Company and keep the Company indemnified against any claim or demand made against the Company in respect of any such tax or contributions and against any interest or penalties imposed in connection with any such tax or contributions.  The Collaborator and any person providing Services on behalf of the Collaborator will inform the Company of his/her tax reference number on request.
 
 
-###13 Miscellaneous
+####13 Miscellaneous
 
  13.1 This agreement will be governed by the laws of England and Wales and the Courts of England and Wales will have non-exclusive jurisdiction to adjudicate any disputes arising under it. 
  
