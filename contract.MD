@@ -12,7 +12,7 @@
 (2) Name of Limited Company (the “Collaborator”) 
 
 
-###1  The Services
+###1. The Services
 
 1. The Company engages the Collaborator to provide the services set out in Schedule 1 of this agreement (the “Services”) and the Collaborator agrees to provide the Services in accordance with the terms of this agreement. 
 	
