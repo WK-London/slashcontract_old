@@ -3,9 +3,7 @@
 ###Name of Ltd Company
 
 
-
-
-###Consultancy Agreement 
+##Consultancy Agreement 
 
 
 ####This Agreement is between:
